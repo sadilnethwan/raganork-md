@@ -1,7 +1,7 @@
 {
-  "name": "raganork-md", 
+  "name": "Sadil N Logs-md", 
   "version": "3.0.1",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "Sadil N Logs whatsapp bot- Multi device version.",
   "main": "./Raganork/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
